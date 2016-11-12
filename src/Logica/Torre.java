@@ -18,7 +18,7 @@ public class Torre extends JPanel {
     }
 
     /**
-     * Metodo que dibuja la torre en el panel
+     * Metodo que dibuja la torre en el Panel
      * @param g 
      */
     @Override
