@@ -62,7 +62,7 @@ public class TorresDeHanoi implements Serializable {
     }
     
     /**
-     * Meotodo para verificar si ya acabo el juego
+     * Meotodo para verificar si ya acabo el Juego
      * @param n
      * @param numeroArosTorre3
      * @return 
