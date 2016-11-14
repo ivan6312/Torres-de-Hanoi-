@@ -5,13 +5,13 @@ import java.awt.Graphics;
 import javax.swing.JPanel;
 
 /**
- * Clase que representa una torre en el juego de torres de Hanoi 
+ * Clase que representa una torre en el juego de Torres de Hanoi 
  * @author Dagoberto Ivan Arroyo Obando.
  */
 public class Torre extends JPanel {
 
     /**
-     * Constructor de la clase torre
+     * Constructor de la clase Torre
      */
     public Torre() {
         this.setLayout(null);
