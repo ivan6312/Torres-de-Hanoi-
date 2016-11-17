@@ -22,7 +22,7 @@ import Logica.Torre;
 /**
  * Clase que representa el mundo de las torres de hanoi
  *
- * @author Mateo Cano Alfonso <mcanoa@uqvirtual.edu.co>
+ * @author Dagoberto Ivan Arroyo Obando 
  */
 public class Mundo extends JPanel implements ActionListener, MouseListener {
 

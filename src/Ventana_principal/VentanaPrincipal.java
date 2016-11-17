@@ -15,7 +15,7 @@ import Mundo.Mundo;
 
 /**
  *
- * @author Mateo
+ * @author Dagoberto Ivan Arroyo Obando 
  */
 public class VentanaPrincipal extends javax.swing.JFrame {
 
