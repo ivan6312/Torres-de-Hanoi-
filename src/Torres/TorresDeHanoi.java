@@ -9,14 +9,14 @@ import java.util.ArrayList;
 
 /**
  * Clase que se encarga de la logica del juego torres de hanoi
- * @author Dagoberto Ivan Arroyo Obando 
+ * @author Dagoberto Ivan Arroyo Obando.
  */
 public class TorresDeHanoi implements Serializable {
 
     
     String cadena;
     ArrayList<String> cadenas;
-    //guarda el numero de pasos completos
+    //Guarda el numero de pasos completos
     int contador;
 
     public TorresDeHanoi() {
