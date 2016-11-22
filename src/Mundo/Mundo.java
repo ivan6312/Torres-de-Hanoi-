@@ -27,7 +27,7 @@ import Logica.Torre;
 public class Mundo extends JPanel implements ActionListener, MouseListener {
 
     /**
-     * variable que aplica la clase de torres de hanoi
+     * variable que aplica la clase de Torres de Hanoi
      */
     TorresDeHanoi hanoi;
 
