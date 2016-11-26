@@ -20,7 +20,7 @@ import Logica.Anillo;
 import Logica.Torre;
 
 /**
- * Clase que representa el mundo de las torres de Hanoi
+ * Clase que representa el mundo de las Torres de Hanoi
  *
  * @author Dagoberto Ivan Arroyo Obando.
  */
